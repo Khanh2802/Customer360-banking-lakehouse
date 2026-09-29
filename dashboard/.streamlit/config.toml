@@ -1,0 +1,6 @@
+[theme]
+primaryColor = "#E4B028"              # Vàng Gold cho nút và tiêu điểm
+backgroundColor = "#F3F4F6"           # Xám nhạt cho nền ứng dụng (giống PowerBI)
+secondaryBackgroundColor = "#0B1849"  # Xanh dương đậm cho Sidebar
+textColor = "#1F2937"                 # Màu chữ chính (Charcoal gần đen, tránh trùng nền)
+font = "sans serif"
