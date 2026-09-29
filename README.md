@@ -241,5 +241,5 @@ Full step-by-step instructions: [Howtorun.md](Howtorun.md) and [docs/how_to_run.
 
 ## 14. Contact
 
-**Huỳnh Duy Khánh** — duykhanh280220039a9@gmail.com
+**Huỳnh Duy Khanh** — duykhanh280220039a9@gmail.com
 # Customer360-banking-lakehouse
